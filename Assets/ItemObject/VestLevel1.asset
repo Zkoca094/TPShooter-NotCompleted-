@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb457e07146121f4d88b4ed10478203a, type: 3}
+  m_Name: VestLevel1
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 0}
+  characterDisplay: {fileID: 0}
+  groundDisplay: {fileID: 471491634328105659, guid: b6d8ff0d995eeb44d8d1f25c660322c8, type: 3}
+  stackable: 0
+  upgraded: 1
+  type: 2
+  description: 
+  data:
+    Name: Armor Vest
+    Id: 6
